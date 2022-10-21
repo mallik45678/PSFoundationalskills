@@ -1,0 +1,61 @@
+1.	Find number of running services from local and remote machine
+2.	List only directories in a given path and print name and size
+3.	Calculate size of given directory
+4.	Find expired certificates
+5.	Find out files not modified in last 60 days
+6.	test if IE is installed in program files
+7.	List only methods available using get-member
+8.	Open IE and close it using PowerShell
+9.	Open 4-5 notepad and find out the time for how long it is running
+10.	Highest CPU taking process
+11.	create a txt file with names of machines and ping each machine from it
+12.	create a text file with 10 numbers, use for loop to read all of them, check if any number is equal to what the user has entered
+13.	Create a file with list of cities, read a city name from user and check if it is there in file. If not add it to file
+14.	get 2 number, check for less, greater
+15.	check for a service, write an event if started else start it and write a event log 
+16.	create function to add two numbers
+17.	get creation time for a file
+18.	get small files than 2 MB
+19.     How many functions are available to you in PowerShell?
+20.     Using WMI, list all operating system properties for the local machine.
+21.     Using WMI, write a PowerShell expression that will write an object to the pipeline showing the computer name, the last time the computer booted and it’s uptime.
+22.     Create a new PSDrive called Docs that maps to your Documents folder.
+23.     Take the string ‘powershell’ and display it in reverse.
+24.     List only commands installed by a PowerShell snapin 
+25.     Display a list of process on your compute whose handlecount is greater than 500
+26.     Use compare object to compare to two excel sheets and list all the differences
+27.     Group all the list of services based on their status property and display stopped and running status in two tables
+28.     Change your excecution policy to remote signed
+29.     Display the help files for any command in a floating windows
+30.     use get-member to show object properties
+31.     create a new alias with the name Hello and assign in it a value get-process and excute the alias, what happens?
+32.     Get process and sort them based on CPU
+33.     List top 4 process using CPU
+34.     Create a basic function to list to 10 cpu process
+35.     Create a local user account using powershell
+36.     Create a regular expression pattern to match email address of your choice
+37.     Create a regualr expression pattern to match a telephone number
+38.     Create a regula expression pattern to match a postal code
+39.     using the range operator open 10 notepads
+40      Measure how much time a command took to complete its execution.
+41.     Create a variable using the full syntax / native powershell command
+42.     Using foreach loop calculate the folder size in a specific directory.
+43.     Get a list of active directory users in a specific OU and display only the firstnames
+44.     create a basic script to find the lastlogon time of an active directory users
+45.     create a basic sctipt to find a list of AD users whoz manager email address is blank or null
+46.     create an active directory  user using powershell
+47.     Create an active directory group using Powershell
+48.     Delete an active directory using windows powersell
+49.     List all the group membership an AD user is member of
+50.     Create a mailbox in exchange server using powershell
+51.     Enable a mailbox using powershell
+52.     create a mail enaled security group.
+
+
+
+
+
+
+
+
+
